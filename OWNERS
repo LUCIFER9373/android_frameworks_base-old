@@ -35,6 +35,7 @@ per-file *.bp = file:platform/build/soong:/OWNERS #{LAST_RESORT_SUGGESTION}
 per-file Android.mk = file:platform/build/soong:/OWNERS #{LAST_RESORT_SUGGESTION}
 per-file framework-jarjar-rules.txt = file:platform/build/soong:/OWNERS #{LAST_RESORT_SUGGESTION}
 per-file TestProtoLibraries.bp = file:platform/platform_testing:/libraries/health/OWNERS
-per-file TestProtoLibraries.bp = file:platform/tools/tradefederation:/OWNERS
+per-file TestProtoLibraries.bp = file:platform/tools/tradefederation:/OWNERSOWNERS.md
 
 per-file ZYGOTE_OWNERS = file:/ZYGOTE_OWNERS
+http://mdb/android-api-councilsvetoslavganov@android.comsvetoslavganov@google.comdefault_television.xmlframework.jarjavajavajavajavajavajavajava
